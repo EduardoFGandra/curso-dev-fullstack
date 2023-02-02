@@ -1,0 +1,14 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat; /* para nao repetir a imagem */
+    /* background-position: 100% 10%;  --> para alinhar 100% p/ esquerda e 10% p/ do topo */
+    background-position: right center;
+    background-size: cover; /*para preencher a tela toda sem repetir a imagem */
+    background-attachment: fixed; /*para fixar o fundo, fica top! */
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+
